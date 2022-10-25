@@ -9,7 +9,7 @@ Please note the project's language is portuguese due to its development in 2018 
 
 GDD (Game development document)
 
-Rule's manual
+Rule manual
 
 Game trailer
 
