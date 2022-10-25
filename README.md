@@ -1,5 +1,5 @@
 # roman_royale
-Desktop game development with the use of Unity and C#
+Desktop battle card game development with the use of Unity and C#
 
 # Warning
 
